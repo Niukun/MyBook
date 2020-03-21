@@ -2,14 +2,14 @@
 
 * [MyBook](README.md)
 
-## Python
+## PythonGroup <a id="python"></a>
 
 * [Java](python/java/README.md)
   * [Collection](python/java/collection.md)
 * [React](react.md)
 * [Kubernates](kubernates.md)
 
-## Java
+## JavaGroup <a id="java"></a>
 
 * [Untitled](java/untitled.md)
 
